@@ -1,4 +1,4 @@
-### Supercat
+# Supercat
 
 A versatile alternative to `cat` for displaying the contents of multiple files with advanced features:
 
